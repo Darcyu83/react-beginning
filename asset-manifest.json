@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-beginning/static/css/main.8b3ccca3.chunk.css",
-    "main.js": "/react-beginning/static/js/main.264fbaad.chunk.js",
-    "main.js.map": "/react-beginning/static/js/main.264fbaad.chunk.js.map",
-    "runtime-main.js": "/react-beginning/static/js/runtime-main.ba03516e.js",
-    "runtime-main.js.map": "/react-beginning/static/js/runtime-main.ba03516e.js.map",
-    "static/js/2.d8fbdef9.chunk.js": "/react-beginning/static/js/2.d8fbdef9.chunk.js",
-    "static/js/2.d8fbdef9.chunk.js.map": "/react-beginning/static/js/2.d8fbdef9.chunk.js.map",
-    "index.html": "/react-beginning/index.html",
-    "static/css/main.8b3ccca3.chunk.css.map": "/react-beginning/static/css/main.8b3ccca3.chunk.css.map",
-    "static/js/2.d8fbdef9.chunk.js.LICENSE.txt": "/react-beginning/static/js/2.d8fbdef9.chunk.js.LICENSE.txt"
+    "main.css": "/react-beginning-statehook/static/css/main.8b3ccca3.chunk.css",
+    "main.js": "/react-beginning-statehook/static/js/main.ee172324.chunk.js",
+    "main.js.map": "/react-beginning-statehook/static/js/main.ee172324.chunk.js.map",
+    "runtime-main.js": "/react-beginning-statehook/static/js/runtime-main.44b65a54.js",
+    "runtime-main.js.map": "/react-beginning-statehook/static/js/runtime-main.44b65a54.js.map",
+    "static/js/2.d8fbdef9.chunk.js": "/react-beginning-statehook/static/js/2.d8fbdef9.chunk.js",
+    "static/js/2.d8fbdef9.chunk.js.map": "/react-beginning-statehook/static/js/2.d8fbdef9.chunk.js.map",
+    "index.html": "/react-beginning-statehook/index.html",
+    "static/css/main.8b3ccca3.chunk.css.map": "/react-beginning-statehook/static/css/main.8b3ccca3.chunk.css.map",
+    "static/js/2.d8fbdef9.chunk.js.LICENSE.txt": "/react-beginning-statehook/static/js/2.d8fbdef9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba03516e.js",
+    "static/js/runtime-main.44b65a54.js",
     "static/js/2.d8fbdef9.chunk.js",
     "static/css/main.8b3ccca3.chunk.css",
-    "static/js/main.264fbaad.chunk.js"
+    "static/js/main.ee172324.chunk.js"
   ]
 }
