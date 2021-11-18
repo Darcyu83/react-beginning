@@ -1,0 +1,48 @@
+* {
+  background-color: white;
+}
+
+.container {
+  width: 300vw;
+  background-color: white;
+  /* opacity: 80%; */
+}
+
+.inner {
+  width: 100vw;
+  overflow: hidden;
+}
+
+.carousel {
+  display: flex;
+  flex-wrap: nowrap;
+  float: left;
+  transition: all 2.5s ease-in;
+  width: auto;
+}
+
+.box {
+  margin-right: 5px;
+  transition: all 4s ease-in-out;
+}
+
+.contents {
+  height: 345px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.title {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 18px;
+  font: bold;
+
+  height: 64px;
+}
+
+.smmry {
+  width: 100%;
+  overflow: auto;
+}

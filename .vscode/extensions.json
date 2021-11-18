@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "coenraads.bracket-pair-colorizer",
+    "equinusocio.vsc-community-material-theme",
+    "pranaygp.vscode-css-peek",
+    "solnurkarim.html-to-css-autocompletion",
+    "oderwat.indent-rainbow",
+    "ritwickdey.liveserver",
+    "pkief.material-icon-theme"
+  ]
+}
